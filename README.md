@@ -1,4 +1,5 @@
 # AVISOLEGAL
+
 AVISO LEGAL MAYA TRADUCCIONES MX
 Aviso Legal
 Maya Traducciones Mx.
@@ -8,8 +9,7 @@ Veracruz, Ver.
 C.P. 91750
 
 Teléfono
-+52 1 961 192 7730
-
++52 1 221 433 7720
 Términos y Condiciones de uso:
 El acceso y uso de este sitio web está sujeto a los Términos y Condiciones siguientes:
 Si usted no acepta estos Términos y Condiciones, por favor no utilice este sitio web. 
